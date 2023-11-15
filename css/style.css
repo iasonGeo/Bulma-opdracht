@@ -1,0 +1,19 @@
+@import "https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css";
+
+
+.hero.is-info{
+    background-image: url("../images/cookie-achtergrond.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+.wrapper {
+    width: 80vw;
+    margin: 0 auto;
+}
+
+footer {
+    border-top: solid black 2px;
+}
